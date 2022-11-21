@@ -1,0 +1,13 @@
+button {
+    display: block;
+    margin: 0 auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+img {
+    width: 100%;
+}
